@@ -19,6 +19,9 @@
 |------------|
 | [![Python Logo](./profile_image/program_icon/python_icon.png)](https://www.python.org/) [![C Logo](./profile_image/program_icon/c_icon.png)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++ Logo](./profile_image/program_icon/c%2B%2B_icon.png)](https://cplusplus.com/) [![MD Logo](./profile_image/program_icon/md_icon.png)](https://www.markdownguide.org/) |
 
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+is+my+Profile+info,+I+am+Geek+Fong+in+China;I+am+a+Embedded+Systems+Engineer;Passionate+about+IoT+and+Embedded+Programming;Always+striving+to+create+efficient+and+reliable+systems;)](https://git.io/typing-svg)
+
 </div>
 
 <!--  
@@ -28,8 +31,7 @@
 
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+is+my+Profile+info,+I+am+Geek+Fong+in+China;I+am+a+Embedded+Systems+Engineer;Passionate+about+IoT+and+Embedded+Programming;Always+striving+to+create+efficient+and+reliable+systems;)](https://git.io/typing-svg)
+
 
 
 
