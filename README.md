@@ -11,9 +11,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=GeekFong.GeekFong" alt="visitors"/>   
 </p>
 </div>
- my-header-img 
-![](./profile_image/profile_header.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
 
 <div align="center">
 
@@ -40,6 +38,7 @@
 
 ## **Hi there display My Project👋**
 
+<br>
 
 ### **开源项目**
 <br>
@@ -80,6 +79,7 @@
 
 
 
+</br>
 </br>
 
 ## **Contact information**
