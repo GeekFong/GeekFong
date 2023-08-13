@@ -1,7 +1,7 @@
 
-<div style="text-align: center;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=GeekFong&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-</div>
+
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/GeekFong/GeekFong"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -10,13 +10,23 @@
     <a href="https://github.com/GeekFong/GeekFong/network/members"><img src="https://img.shields.io/github/forks/GeekFong/GeekFong.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=GeekFong.GeekFong" alt="visitors"/>   
 </p>
-<!--   my-header-img 
+</div>
+ my-header-img 
 ![](./profile_image/profile_header.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>-->
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
+<div align="center">
+
+| 通用编程语言 |
+|------------|
+| [![Python Logo](./profile_image/program_icon/python_icon.png)](https://www.python.org/) [![C Logo](./profile_image/program_icon/c_icon.png)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++ Logo](./profile_image/program_icon/c%2B%2B_icon.png)](https://cplusplus.com/) [![MD Logo](./profile_image/program_icon/md_icon.png)](https://www.markdownguide.org/) |
+
+</div>
+
+<!--  
  common programming language |
 --------|
- [![Python Logo](./profile_image/program_icon/python_icon.png)](https://www.python.org/) [![C Logo](./profile_image/program_icon/c_icon.png)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++ Logo](./profile_image/program_icon/c%2B%2B_icon.png)](https://cplusplus.com/) [![MD Logo](./profile_image/program_icon/md_icon.png)](https://www.markdownguide.org/) |
+ [![Python Logo](./profile_image/program_icon/python_icon.png)](https://www.python.org/) [![C Logo](./profile_image/program_icon/c_icon.png)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++ Logo](./profile_image/program_icon/c%2B%2B_icon.png)](https://cplusplus.com/) [![MD Logo](./profile_image/program_icon/md_icon.png)](https://www.markdownguide.org/) |-->
 
 
 
