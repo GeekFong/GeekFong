@@ -56,8 +56,8 @@
 
 | 项目名称                                          | 进度   |
 |--------------------------------------------------|--------|
-| 🌱 Label_Change_Tool (图形化界面转换yolo标签,xml标签, )| 已完成未上传 |
-| 🌱 WeChathook_Mqtt (mqtt对接微信，实现消息通知)| 已完成未上传 |
+| 🌱 [Label_Change_Tool (图形化界面转换yolo标签,xml标签)](https://github.com/GeekFong/Label_Change_Tool)| 已完成未上传 |
+| 🌱 [WeChathook_Mqtt (mqtt对接微信，实现消息通知)](https://github.com/GeekFong/Wechat_Mqtt)| 已完成未上传 |
 
 </br>
 
