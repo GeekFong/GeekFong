@@ -48,20 +48,19 @@
 | 项目名称                                          | 进度   |
 |--------------------------------------------------|--------|
 | 🌱 [How_to_use_poetry (关于python中Poetry的使用)](https://github.com/GeekFong/how_to_use_poetry) | 进行中 |
-
+| 🌱 [Label_Change_Tool (图形化界面转换yolo标签,xml标签)](https://github.com/GeekFong/Label_Change_Tool)| 已完成未上传 |
 </br>
 
-### **自制使用工具**
+### **自制使用工具（非开源，但提供可执行文件）**
 <br>
 
 | 项目名称                                          | 进度   |
 |--------------------------------------------------|--------|
-| 🌱 [Label_Change_Tool (图形化界面转换yolo标签,xml标签)](https://github.com/GeekFong/Label_Change_Tool)| 已完成未上传 |
 | 🌱 [WeChathook_Mqtt (mqtt对接微信，实现消息通知)](https://github.com/GeekFong/Wechat_Mqtt)| 已完成未上传 |
 
 </br>
 
-### **自我娱乐项目**
+### **非开源项目**
 <br>
 - 此部分项目均为自己使用,只会有简介和简单的介绍，私信可聊
 
@@ -93,15 +92,14 @@
 [<img src="./profile_image/Contact/bilibili_.png" alt="bilibili" width="30"> bilibili](https://space.bilibili.com/394006962?spm_id_from=333.1007.0.0)
 [<img src="./profile_image/Contact/github.png" alt="github" width="30"> github](https://github.com/GeekFong)
 [<img src="./profile_image/Contact/gmail_letter_logo_icon.png" alt="github" width="30"> email](./profile_image/Contact/email.png)
+[<img src="./profile_image/Contact/WechatImage.png" alt="WeChat" width="30"> 微信公众号](./profile_image/Contact/weixingongzhongh.jpg)
 </br>
 
 
 ## **Programming Language Statistics**
 <br>
-<div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekFong&theme=radical&layout=compact" alt="Quiec's github stats">
-</div>
-</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekFong&layout=compact)](https://github.com/GeekFong/github-readme-stats)
 
 
 ## **💻 Activity Graph**
