@@ -54,9 +54,9 @@
 ### **自制使用工具（非开源，但提供可执行文件）**
 <br>
 
-| 项目名称                                          | 进度   |
-|--------------------------------------------------|--------|
-| 🌱 [WeChathook_Mqtt (mqtt对接微信，实现消息通知)](https://github.com/GeekFong/Wechat_Mqtt)| 已完成未上传 |
+| 项目名称                                          | 进度   | 版本 |
+|--------------------------------------------------|--------|-------|
+| 🌱 [WeChathook_Mqtt (mqtt对接微信，实现消息通知)](https://github.com/GeekFong/Wechat_Mqtt)| <font color=red>已上传</font> | V1.0|
 
 </br>
 
