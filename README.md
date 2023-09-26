@@ -47,7 +47,7 @@
 
 | 项目名称                                          | 进度   |版本 |
 |--------------------------------------------------|--------|-------|
-| 🌱 [How_to_use_poetry (关于python中Poetry的使用)](https://github.com/GeekFong/how_to_use_poetry) | 进行中 |
+| 🌱 [How_to_use_poetry (关于python中Poetry的使用)](https://github.com/GeekFong/how_to_use_poetry) | <font color=red>已完成</font>  |
 | 🌱 [FastAPI_Chinese_manual(FastAPI中文学习手册)](https://github.com/GeekFong/FastAPI_Chinese_manual) | 进行中 |
 | 🌱 [Label_Change_Tool (图形化界面转换yolo标签,xml标签)](https://github.com/GeekFong/Label_Change_Tool)|<font color=red>已上传</font> | V1.01|
 </br>
